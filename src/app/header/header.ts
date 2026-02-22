@@ -4,7 +4,7 @@ import { RouterLink } from '@angular/router';
 @Component({
 selector: 'app-header',
 imports: [RouterLink],
-templateUrl: './head',
+templateUrl: './header.',
 styleUrl: './header.',
 })
 export class Header {
